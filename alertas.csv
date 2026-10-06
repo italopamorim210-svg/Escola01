@@ -1,0 +1,30 @@
+ID,Requisição de Timestamp,Timestamp de Resposta,Método,URL,Código,Motivo,RTT,Tamanho do Cabeçalho da Resposta,Tamanho do Corpo da Resposta
+15935,Tue Oct 06 09:32:46 BRT 2026,Tue Oct 06 09:33:27 BRT 2026,GET,https://www.sbt.com.br/5776382526228626813,404,Not Found,41017,1606,17846
+15937,Tue Oct 06 09:33:27 BRT 2026,Tue Oct 06 09:33:28 BRT 2026,GET,https://www.sbt.com.br/https:/51516663750719045,404,Not Found,192,1606,17846
+15939,Tue Oct 06 09:33:28 BRT 2026,Tue Oct 06 09:33:28 BRT 2026,GET,https://www.sbt.com.br/https:/static.sbt.com.br/8444238903006094084,404,Not Found,191,1606,17846
+15941,Tue Oct 06 09:33:28 BRT 2026,Tue Oct 06 09:33:28 BRT 2026,GET,https://www.sbt.com.br/https:/static.sbt.com.br/media/4837508595999747975,404,Not Found,192,1606,17846
+15943,Tue Oct 06 09:33:28 BRT 2026,Tue Oct 06 09:33:28 BRT 2026,GET,https://www.sbt.com.br/https:/static.sbt.com.br/media/playlist/2250788315138357560,404,Not Found,190,1606,17846
+15945,Tue Oct 06 09:33:28 BRT 2026,Tue Oct 06 09:33:28 BRT 2026,GET,https://www.sbt.com.br/https:/static.sbt.com.br/media/playlist/20100209115700/6097586086104419416,404,Not Found,189,1606,17846
+15947,Tue Oct 06 09:33:28 BRT 2026,Tue Oct 06 09:33:28 BRT 2026,GET,https://www.sbt.com.br/https:/static.sbt.com.br/media/playlist/20100209115700/20100209115717/7696124953176789873,404,Not Found,190,1606,17846
+15949,Tue Oct 06 09:33:28 BRT 2026,Tue Oct 06 09:33:29 BRT 2026,GET,https://www.sbt.com.br/https:/static.sbt.com.br/media/playlist/20150805122714/566096519160004434,404,Not Found,189,1606,17846
+15951,Tue Oct 06 09:33:29 BRT 2026,Tue Oct 06 09:33:29 BRT 2026,GET,https://www.sbt.com.br/https:/static.sbt.com.br/media/playlist/20150805122714/20150805123030/6732983536197833992,404,Not Found,189,1606,17846
+15953,Tue Oct 06 09:33:29 BRT 2026,Tue Oct 06 09:33:29 BRT 2026,GET,https://www.sbt.com.br/https:/static.sbt.com.br/media/playlist/20150805122714/20150805123030/tn/6812726414023200319,404,Not Found,189,1606,17846
+15955,Tue Oct 06 09:33:29 BRT 2026,Tue Oct 06 09:33:29 BRT 2026,GET,https://www.sbt.com.br/_next/2132397803541445169,404,Not Found,189,1606,17846
+15957,Tue Oct 06 09:33:29 BRT 2026,Tue Oct 06 09:33:30 BRT 2026,GET,https://www.sbt.com.br/_next/static/7268463897281788365,404,Not Found,241,1406,9
+15959,Tue Oct 06 09:33:30 BRT 2026,Tue Oct 06 09:34:10 BRT 2026,GET,https://www.sbt.com.br/_next/static/chunks/8356755875686191624,404,Not Found,40109,1406,9
+15961,Tue Oct 06 09:34:10 BRT 2026,Tue Oct 06 09:34:35 BRT 2026,GET,https://www.sbt.com.br/_next/static/chunks/app/4541776744645030105,404,Not Found,25087,1406,9
+15963,Tue Oct 06 09:34:35 BRT 2026,Tue Oct 06 09:34:35 BRT 2026,GET,https://www.sbt.com.br/_next/static/chunks/app/(home)/8799528157350904027,404,Not Found,553,1406,9
+15965,Tue Oct 06 09:34:35 BRT 2026,Tue Oct 06 09:34:36 BRT 2026,GET,https://www.sbt.com.br/_next/static/chunks/app/ao-vivo/7498101239319266334,404,Not Found,551,1406,9
+15967,Tue Oct 06 09:34:36 BRT 2026,Tue Oct 06 09:34:56 BRT 2026,GET,https://www.sbt.com.br/_next/static/chunks/app/faq/8322519988886816886,404,Not Found,20577,1406,9
+15969,Tue Oct 06 09:34:56 BRT 2026,Tue Oct 06 09:35:02 BRT 2026,GET,https://www.sbt.com.br/_next/static/chunks/app/institucional/3776986443563711029,404,Not Found,5679,1406,9
+15971,Tue Oct 06 09:35:42 BRT 2026,Tue Oct 06 09:36:02 BRT 2026,GET,https://www.sbt.com.br/_next/static/chunks/app/politica-de-privacidade/8594884112991098241,404,Not Found,19986,1406,9
+15973,Tue Oct 06 09:36:02 BRT 2026,Tue Oct 06 09:36:03 BRT 2026,GET,https://www.sbt.com.br/_next/static/chunks/app/search/4727667292916462332,404,Not Found,552,1406,9
+15975,Tue Oct 06 09:36:03 BRT 2026,Tue Oct 06 09:36:03 BRT 2026,GET,https://www.sbt.com.br/_next/static/chunks/app/termos-de-privacidade-uso-parceiros/1896871655001793930,404,Not Found,557,1406,9
+15977,Tue Oct 06 09:36:03 BRT 2026,Tue Oct 06 09:36:24 BRT 2026,GET,https://www.sbt.com.br/_next/static/chunks/app/termos-de-uso/1702737869273719144,404,Not Found,20565,1406,9
+15979,Tue Oct 06 09:36:24 BRT 2026,Tue Oct 06 09:36:37 BRT 2026,GET,https://www.sbt.com.br/_next/static/css/624318332677247213,404,Not Found,12642,1406,9
+15981,Tue Oct 06 09:36:37 BRT 2026,Tue Oct 06 09:36:37 BRT 2026,GET,https://www.sbt.com.br/_next/static/media/5188606532578616904,404,Not Found,845,1406,9
+15983,Tue Oct 06 09:36:37 BRT 2026,Tue Oct 06 09:36:38 BRT 2026,GET,https://www.sbt.com.br/admin/6722115325974105225,404,Not Found,1036,1606,17846
+15985,Tue Oct 06 09:36:38 BRT 2026,Tue Oct 06 09:36:39 BRT 2026,GET,https://www.sbt.com.br/api/6474347140885679069,404,Not Found,208,1841,17846
+15987,Tue Oct 06 09:36:39 BRT 2026,Tue Oct 06 09:36:41 BRT 2026,GET,https://www.sbt.com.br/images/5774652960369591317,404,Not Found,2530,1606,17846
+15989,Tue Oct 06 09:36:41 BRT 2026,Tue Oct 06 09:36:41 BRT 2026,GET,https://www.sbt.com.br/images/institucional/2663050170940644980,404,Not Found,270,1606,17846
+15991,Tue Oct 06 09:36:41 BRT 2026,Tue Oct 06 09:36:42 BRT 2026,GET,https://www.sbt.com.br/jornalismo/2028219765649721306,200,OK,319,2145,63867

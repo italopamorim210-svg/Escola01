@@ -1,0 +1,3 @@
+ID,Origem,Requisição de Timestamp,Método,URL,Código,Motivo,RTT,Tamanho do Corpo da Resposta,Alerta Máximo,Nota,Marcadores (Tags)
+1,Proxy,Tue Oct 06 08:55:28 BRT 2026,GET,https://n1piaui.com.br/ultimas-noticias,200,OK,5682,44662,Médio,false,"Form, Script"
+14983,Proxy,Tue Oct 06 09:21:34 BRT 2026,GET,https://www.sbt.com.br/,200,OK,1417,317465,Médio,false,"Script, Comment"
